@@ -1,3 +1,5 @@
+[![View BWA Support Package for Bioinformatics Toolbox on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/80236-bwa-support-package-for-bioinformatics-toolbox)
+
 This repository contains downloadable archives of BWA compatible with the Bioinformatics Toolbox for MATLAB.
 
 # What is BWA?
